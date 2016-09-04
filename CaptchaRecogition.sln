@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoRecogize", "Test\AutoRecogize.csproj", "{7EA042CA-D4B0-4EAF-A09D-0850526D0D73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePorcess", "Yanzhengma\ImagePorcess.csproj", "{A7E3B730-775F-44F2-A5B2-AD772EA2B56E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePorcess", "ImagePorcess\ImagePorcess.csproj", "{A7E3B730-775F-44F2-A5B2-AD772EA2B56E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

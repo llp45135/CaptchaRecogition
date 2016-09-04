@@ -191,7 +191,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Yanzhengma\ImagePorcess.csproj">
+    <ProjectReference Include="..\ImagePorcess\ImagePorcess.csproj">
       <Project>{a7e3b730-775f-44f2-a5b2-ad772ea2b56e}</Project>
       <Name>ImagePorcess</Name>
     </ProjectReference>
